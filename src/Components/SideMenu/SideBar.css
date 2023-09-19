@@ -1,0 +1,10 @@
+.sideMenu{
+    height: 100%;
+    padding: 10px;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    left: 0;
+}
+.main-sideManu{
+  border-radius: 5px;
+  background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
